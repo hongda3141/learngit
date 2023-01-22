@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-22T12:42:49.764Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="3mu7PWTjULDqmyA_ROHu" version="20.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-22T12:43:26.359Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="qYUBcsWiEDqZfRSIdcd3" version="20.8.3" type="github">
   <diagram id="auPgPuv8J61tu-4cb-6g" name="第 1 页">
     <mxGraphModel dx="1098" dy="556" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -236,8 +236,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LjoHzXwH2n2T3uThLXAH-60" value="&lt;pre style=&quot;box-sizing: border-box; font-family: ui-monospace, SFMono-Regular, &amp;quot;SF Mono&amp;quot;, Menlo, Consolas, &amp;quot;Liberation Mono&amp;quot;, monospace; margin-top: 0px; margin-bottom: 0px; overflow-wrap: normal; padding: 16px; overflow: auto; line-height: 1.45; background-color: var(--color-canvas-subtle); border-radius: 6px; word-break: normal; color: rgb(36, 41, 47); text-align: start;&quot; class=&quot;notranslate&quot;&gt;&lt;span style=&quot;box-sizing: border-box; color: var(--color-prettylights-syntax-keyword);&quot; class=&quot;pl-k&quot;&gt;rulesOfRandom()/&lt;/span&gt; rulesOfpunishment()&lt;/pre&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="385" y="15" width="310" height="61" as="geometry" />
+        <mxCell id="LjoHzXwH2n2T3uThLXAH-60" value="&lt;pre style=&quot;box-sizing: border-box; font-family: ui-monospace, SFMono-Regular, &amp;quot;SF Mono&amp;quot;, Menlo, Consolas, &amp;quot;Liberation Mono&amp;quot;, monospace; margin-top: 0px; margin-bottom: 0px; overflow-wrap: normal; padding: 16px; overflow: auto; line-height: 1.45; background-color: var(--color-canvas-subtle); border-radius: 6px; word-break: normal; color: rgb(36, 41, 47); text-align: start;&quot; class=&quot;notranslate&quot;&gt;&lt;span style=&quot;box-sizing: border-box; color: var(--color-prettylights-syntax-keyword);&quot; class=&quot;pl-k&quot;&gt;rulesOfRandom()/&lt;/span&gt; rulesOfpunishment()&lt;br/&gt;rulesOfReputation()&lt;/pre&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="385" y="6" width="310" height="79" as="geometry" />
         </mxCell>
         <mxCell id="LjoHzXwH2n2T3uThLXAH-61" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="414" y="380" width="120" height="60" as="geometry" />
